@@ -1,2 +1,3 @@
+OracleJdbcTest test = new OracleJdbcTest();
 try {
 hello world
