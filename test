@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 OracleJdbcTest test = new OracleJdbcTest();
 try {
 hello world
