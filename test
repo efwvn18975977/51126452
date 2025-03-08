@@ -1,4 +1,5 @@
 BufferedWriter out = null;
+BufferedWriter out = null;
 rs.close();
 public void fetch() throws SQLException, IOException
 OracleJdbcTest test = new OracleJdbcTest();
