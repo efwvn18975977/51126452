@@ -1,3 +1,4 @@
+} finally {
 BufferedWriter out = null;
 BufferedWriter out = null;
 rs.close();
