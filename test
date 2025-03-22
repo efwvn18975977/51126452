@@ -1,3 +1,4 @@
+ps.close();
 } catch (IOException e) {
 try {
 public void fetch() throws SQLException, IOException
