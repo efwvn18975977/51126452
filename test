@@ -1,3 +1,4 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 ps.close();
 } catch (IOException e) {
 try {
